@@ -1,0 +1,23 @@
+{
+    "name": "SL06",
+    "version": "1.0.2",
+    "description": "XinaBox SL06 light sensor: Color, ambient light, proximity and gesture sensor",
+    "authors": [
+        "Luqmaan Baboo",
+        "Bjarke Gotfredsen"
+    ],
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "sl06.h",
+        "sl06.cpp",
+        "sl06.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": true
+}
